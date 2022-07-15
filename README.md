@@ -1,4 +1,4 @@
 # Demo repo
 
-# Some discript
+# Some discription.
 
